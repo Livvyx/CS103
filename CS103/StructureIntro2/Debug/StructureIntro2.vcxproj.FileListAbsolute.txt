@@ -1,0 +1,2 @@
+C:\Users\270046103\OneDrive - UP Education\Desktop\CS103\StructureIntro2\Debug\StructureIntro2.exe
+C:\Users\270046103\OneDrive - UP Education\Desktop\CS103\StructureIntro2\Debug\StructureIntro2.pdb
