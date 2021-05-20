@@ -1,0 +1,2 @@
+C:\Users\270046103\OneDrive - UP Education\Desktop\CS103\EntityExercise\Debug\EntityExercise.exe
+C:\Users\270046103\OneDrive - UP Education\Desktop\CS103\EntityExercise\Debug\EntityExercise.pdb
