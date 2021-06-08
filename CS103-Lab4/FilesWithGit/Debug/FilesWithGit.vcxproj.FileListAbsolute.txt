@@ -1,0 +1,2 @@
+C:\Users\270046103\OneDrive - UP Education\Desktop\CS103-Lab4\FilesWithGit\Debug\FilesWithGit.exe
+C:\Users\270046103\OneDrive - UP Education\Desktop\CS103-Lab4\FilesWithGit\Debug\FilesWithGit.pdb
